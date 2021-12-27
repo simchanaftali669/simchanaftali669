@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naftali Bilig, a programmer in my heart.
+- 👋 Hi, I’m Naftali Bilig, a programmer in my heart. (with experience of 8 years)
 - 👀 I’m interested in exploring new fields in programming like deep in some language or some issue that is interesting.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Angular project
